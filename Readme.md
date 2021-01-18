@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Mariia Brozalevskaia](https://up.htmlacademy.ru/htmlcss/30/user/1664153).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
